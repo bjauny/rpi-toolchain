@@ -1,0 +1,8 @@
+[settings]
+os=baremetal
+arch=armv6
+compiler=gcc
+build_type=Release
+compiler.cppstd=gnu14
+compiler.libcxx=libstdc++11
+compiler.version=12
